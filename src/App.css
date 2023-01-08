@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.App {
+  background-color: rgb(255, 255, 255);
+  border-radius: 30px;
+  height: 40rem;
+  max-height: 95%;
+  width: 65rem;
+  max-width: 95%;
+  justify-self: center;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem auto;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}
